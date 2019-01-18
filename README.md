@@ -1,5 +1,8 @@
 # Wolf
 
+# THIS IS A DEVELOPMENT BRANCH WHERE I AM REMAKING THE TOOLS TO BE BETTER AND ACTUALLY WORK
+# DO NOT USE THIS UNLESS YOU KNOW WHAT YOU ARE DOING AS I WON'T PROVIDE COMPILED BUILDS HERE
+
 
 Wolf is a collection of tools that allow you to edit content for [Yu-Gi-Oh! Legacy of the Duelist!](http://store.steampowered.com/app/480650/YuGiOh_Legacy_of_the_Duelist/) on PC.
 
