@@ -1,4 +1,5 @@
 #pragma once
 
 void PrintUsage();
-void CheckArgs(char** const& argv, int argc);
+void PrintError(char* Msg, char* FileSpecified);
+bool FileExists(char* File);
